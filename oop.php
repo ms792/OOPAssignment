@@ -196,3 +196,4 @@ public function printthis3()
       echo '<hr>';
     }
 }
+?>
